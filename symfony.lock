@@ -14,6 +14,24 @@
     "doctrine/lexer": {
         "version": "1.2.1"
     },
+    "guzzlehttp/guzzle": {
+        "version": "6.5.5"
+    },
+    "guzzlehttp/promises": {
+        "version": "1.4.1"
+    },
+    "guzzlehttp/psr7": {
+        "version": "1.8.2"
+    },
+    "lullabot/amp": {
+        "version": "2.0.0"
+    },
+    "marc1706/fast-image-size": {
+        "version": "v1.1.6"
+    },
+    "masterminds/html5": {
+        "version": "2.7.4"
+    },
     "psr/cache": {
         "version": "1.0.1"
     },
@@ -23,8 +41,23 @@
     "psr/event-dispatcher": {
         "version": "1.0.0"
     },
+    "psr/http-message": {
+        "version": "1.0.1"
+    },
     "psr/log": {
         "version": "1.1.4"
+    },
+    "querypath/querypath": {
+        "version": "3.0.5"
+    },
+    "ralouphie/getallheaders": {
+        "version": "3.0.3"
+    },
+    "sabberworm/php-css-parser": {
+        "version": "8.3.1"
+    },
+    "sebastian/diff": {
+        "version": "3.0.3"
     },
     "sensio/framework-extra-bundle": {
         "version": "5.2",
@@ -125,6 +158,9 @@
         "version": "v5.2.7"
     },
     "symfony/polyfill-intl-grapheme": {
+        "version": "v1.22.1"
+    },
+    "symfony/polyfill-intl-idn": {
         "version": "v1.22.1"
     },
     "symfony/polyfill-intl-normalizer": {
